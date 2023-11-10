@@ -1,0 +1,681 @@
+,Unnamed: 0,Tipo,Título,ID,Mes Estreno,Año Estreno
+0,0,Movie,Spy Story,tt0075259,3.0,1990.0
+1,1,Movie,Soldier of Fortune,tt0094004,4.0,1990.0
+3,3,Movie,Any Man's Death,tt0094666,5.0,1990.0
+4,4,Movie,Chi se da feng bao,tt0094857,3.0,1990.0
+5,5,Movie,Payback,tt0095840,4.0,1990.0
+6,6,Movie,Still Life,tt0096177,11.0,1990.0
+7,7,Movie,Jui gaai chak paak dong,tt0096513,3.0,1990.0
+8,8,Movie,Bloodmoon,tt0096954,3.0,1990.0
+9,9,Movie,An le zhan chang,tt0096811,1.0,1990.0
+10,10,Movie,In the Cold of the Night,tt0097573,12.0,1990.0
+11,11,Movie,The Platinum Triangle,tt0098100,3.0,1990.0
+12,12,Movie,Prom Night III: The Last Kiss,tt0098136,11.0,1990.0
+13,13,Movie,Catchfire,tt0096875,4.0,1990.0
+14,14,Movie,Burndown,tt0096995,5.0,1990.0
+15,15,Movie,Reason to Die,tt0098172,2.0,1990.0
+16,16,Movie,Another 48 Hrs.,tt0099044,8.0,1990.0
+17,17,Movie,Bride of Re-Animator,tt0099180,7.0,1990.0
+18,18,Movie,Easy Kill,tt0097259,4.0,1990.0
+19,19,Movie,Child's Play 2,tt0099253,11.0,1990.0
+20,20,Movie,¡Maten a Chinto!,tt0097850,5.0,1990.0
+29,29,Movie,Navy Seals,tt0100232,1.0,1991.0
+37,37,Movie,Narrow Margin,tt0100224,1.0,1991.0
+41,41,Movie,Nikita,tt0100263,6.0,1991.0
+43,43,Movie,Peacemaker,tt0100343,2.0,1991.0
+46,46,Movie,Pacific Heights,tt0100318,1.0,1991.0
+56,56,Movie,Rafales,tt0100453,10.0,1991.0
+64,64,Movie,Desperate Hours,tt0099409,8.0,1991.0
+66,66,Movie,State of Grace,tt0100685,6.0,1991.0
+72,72,Movie,Fear,tt0099557,3.0,1991.0
+73,73,Movie,Bad Influence,tt0099091,7.0,1991.0
+80,80,Movie,Q & A,tt0100442,4.0,1991.0
+87,87,Movie,The Rookie,tt0100514,3.0,1991.0
+92,92,Movie,The Comfort of Strangers,tt0099292,1.0,1991.0
+97,97,Movie,The Reflecting Skin,tt0100469,3.0,1991.0
+104,104,Movie,The Russia House,tt0100530,2.0,1991.0
+106,106,Movie,Miami Blues,tt0100143,9.0,1991.0
+110,110,Movie,Blood Games,tt0099151,5.0,1991.0
+119,119,Movie,Blue Steel,tt0099160,1.0,1991.0
+121,121,Movie,King of New York,tt0099939,1.0,1991.0
+125,125,Movie,The Grifters,tt0099703,4.0,1991.0
+135,135,Movie,Fatal Encounter,tt0099549,7.0,1992.0
+389,389,Movie,Psychic,tt0100430,5.0,1992.0
+401,401,Movie,Last Call,tt0099982,4.0,1992.0
+405,405,Movie,Hei xing feng yun,tt0102017,,1992.0
+410,410,Movie,Cape Fear,tt0101540,3.0,1992.0
+425,425,Movie,Billy Bathgate,tt0101453,2.0,1992.0
+427,427,Movie,My Daughter's Keeper,tt0101379,5.0,1992.0
+428,428,Movie,Barton Fink,tt0101410,1.0,1992.0
+429,429,Movie,The Boy Who Cried Bitch,tt0101504,3.0,1992.0
+441,441,Movie,Rush,tt0102820,11.0,1992.0
+444,444,Movie,Ricochet,tt0102789,1.0,1992.0
+446,446,Movie,Inner Sanctum,tt0102122,6.0,1992.0
+451,451,Movie,Wedlock,tt0103239,11.0,1992.0
+453,453,Movie,Lik wong,tt0102293,4.0,1992.0
+460,460,Movie,Star Trek: The Undiscovered Country,tt0102975,6.0,1992.0
+461,461,Movie,Ossessione fatale,tt0102604,10.0,1992.0
+462,462,Movie,Dead Again,tt0101669,2.0,1992.0
+464,464,Movie,Caged - Le prede umane,tt0101534,6.0,1992.0
+479,479,Movie,Europa,tt0101829,2.0,1992.0
+486,486,Movie,Critters 3,tt0101627,1.0,1992.0
+173,173,Movie,Hard to Die,tt0103111,3.0,1993.0
+440,440,Movie,Kafka,tt0102181,4.0,1993.0
+448,448,Movie,Shuttlecock,tt0102920,4.0,1993.0
+502,502,Movie,Lonely Hearts,tt0102329,10.0,1993.0
+550,550,Movie,Motorama,tt0104922,1.0,1993.0
+554,554,Movie,Where Sleeping Dogs Lie,tt0105809,6.0,1993.0
+557,557,Movie,Under Suspicion,tt0105691,9.0,1993.0
+576,576,Movie,Pardehe Akhar,tt0193373,2.0,1993.0
+742,742,Movie,Huo zhong,tt0102079,,1993.0
+749,749,Movie,Brandnacht,tt0103875,10.0,1993.0
+751,751,Movie,Consenting Adults,tt0104006,4.0,1993.0
+752,752,Movie,El beso del sueño,tt0103796,1.0,1993.0
+765,765,Movie,Braindead,tt0103873,6.0,1993.0
+774,774,Movie,Candyman,tt0103919,4.0,1993.0
+779,779,Movie,Guncrazy,tt0104377,9.0,1993.0
+784,784,Movie,Mo' Money,tt0104897,6.0,1993.0
+790,790,Movie,Liar's Edge,tt0104720,1.0,1993.0
+798,798,Movie,Dust Devil,tt0104155,4.0,1993.0
+804,804,Movie,CIA Code Name: Alexa,tt0103907,3.0,1993.0
+806,806,Movie,The Crying Game,tt0104036,3.0,1993.0
+61,61,Movie,Appuntamento in nero,tt0099050,1.0,1994.0
+183,183,Movie,Contamination .7,tt0106620,4.0,1994.0
+527,527,Movie,Rochade,tt0102801,11.0,1994.0
+763,763,Movie,American Streetfighter,tt0103674,4.0,1994.0
+771,771,Movie,El mariachi,tt0104815,2.0,1994.0
+823,823,Movie,The Paint Job,tt0105085,4.0,1994.0
+904,904,Movie,The Turn of the Screw,tt0105659,6.0,1994.0
+1110,1110,Movie,I Love a Man in Uniform,tt0107179,4.0,1994.0
+1119,1119,Movie,En medio de la nada,tt0106811,10.0,1994.0
+1123,1123,Movie,Frauds,tt0106963,4.0,1994.0
+1126,1126,Movie,Fearless,tt0106881,3.0,1994.0
+1130,1130,Movie,Die tödliche Maria,tt0108425,8.0,1994.0
+1136,1136,Movie,Suture,tt0108260,8.0,1994.0
+1143,1143,Movie,Demolition Man,tt0106697,1.0,1994.0
+1148,1148,Movie,O Fio do Horizonte,tt0106910,12.0,1994.0
+1153,1153,Movie,Carlito's Way,tt0106519,2.0,1994.0
+1162,1162,Movie,Jack Be Nimble,tt0107242,2.0,1994.0
+1168,1168,Movie,Extreme Justice,tt0106850,2.0,1994.0
+1170,1170,Movie,Sonatine,tt0108188,9.0,1994.0
+1171,1171,Movie,The Good Son,tt0107034,4.0,1994.0
+188,188,Movie,Monday Morning,tt0121566,7.0,1995.0
+1134,1134,Movie,La madre muerta,tt0107479,9.0,1995.0
+1158,1158,Movie,23h58,tt0106195,10.0,1995.0
+1159,1159,Movie,"Clean, Shaven",tt0106579,4.0,1995.0
+1200,1200,Movie,Malice,tt0107497,5.0,1995.0
+1217,1217,Movie,Makarov,tt0107490,10.0,1995.0
+1219,1219,Movie,Point of Impact,tt0107842,1.0,1995.0
+1241,1241,Movie,A House in the Hills,tt0107147,4.0,1995.0
+1273,1273,Movie,Mother's Boys,tt0107606,2.0,1995.0
+1274,1274,Movie,Needful Things,tt0107665,4.0,1995.0
+1296,1296,Movie,Killing Zoe,tt0110265,5.0,1995.0
+1305,1305,Movie,The Crude Oasis,tt0112746,7.0,1995.0
+1496,1496,Movie,Captives,tt0109374,4.0,1995.0
+1499,1499,Movie,Amateur,tt0109093,4.0,1995.0
+1524,1524,Movie,Deep Down,tt0109588,2.0,1995.0
+1531,1531,Movie,Disclosure,tt0109635,1.0,1995.0
+1542,1542,Movie,Death Machine,tt0109575,5.0,1995.0
+1543,1543,Movie,Drop Zone,tt0109676,3.0,1995.0
+1544,1544,Movie,Death and the Maiden,tt0109579,3.0,1995.0
+1547,1547,Movie,Exquisite Tenderness,tt0109761,1.0,1995.0
+1112,1112,Movie,Desire,tt0106706,5.0,1996.0
+1132,1132,Movie,Night Train to Venice,tt0107683,7.0,1996.0
+1308,1308,Movie,Alferd Packer: The Musical,tt0115819,8.0,1996.0
+1350,1350,Movie,Agria triandafylla,tt0252832,5.0,1996.0
+1522,1522,Movie,Street War,tt0109573,,1996.0
+1616,1616,Movie,Loaded,tt0110374,8.0,1996.0
+1635,1635,Movie,Night of the Archer,tt0110666,2.0,1996.0
+1682,1682,Movie,Unlawful Passage,tt0111560,6.0,1996.0
+1688,1688,Movie,Sister My Sister,tt0111205,1.0,1996.0
+1830,1830,Movie,Dolores Claiborne,tt0109642,1.0,1996.0
+1835,1835,Movie,Hostile Intentions,tt0110061,4.0,1996.0
+1845,1845,Movie,Témoin muet,tt0110604,2.0,1996.0
+1852,1852,Movie,The Grotesque,tt0113224,6.0,1996.0
+1864,1864,Movie,The Final Cut,tt0113063,6.0,1996.0
+1865,1865,Movie,Halloween: The Curse of Michael Myers,tt0113253,5.0,1996.0
+1872,1872,Movie,Copycat,tt0112722,3.0,1996.0
+1875,1875,Movie,L'amore molesto,tt0112352,3.0,1996.0
+1877,1877,Movie,The Innocent Sleep,tt0113425,1.0,1996.0
+1886,1886,Movie,Homage,tt0113319,5.0,1996.0
+1898,1898,Movie,Rumble in the Bronx,tt0113326,7.0,1996.0
+94,94,Movie,Red Blooded American Girl,tt0100466,1.0,1997.0
+1538,1538,Movie,Enjeru dasuto,tt0109733,1.0,1997.0
+1651,1651,Movie,We the People,tt0111677,1.0,1997.0
+1825,1825,Movie,Temptress,tt0109546,4.0,1997.0
+1847,1847,Movie,Sorceress,tt0111244,5.0,1997.0
+1973,1973,Movie,The Near Room,tt0113943,4.0,1997.0
+2034,2034,Movie,Terra Estrangeira,tt0114651,1.0,1997.0
+2075,2075,Movie,Hearts & Minds,tt0116506,1.0,1997.0
+2106,2106,Movie,Guns and Lipstick,tt0155733,8.0,1997.0
+2116,2116,Movie,Vicious Kiss,tt0183973,3.0,1997.0
+2154,2154,Movie,Starstruck,tt0286153,7.0,1997.0
+2249,2249,Movie,Savage,tt0114339,2.0,1997.0
+2261,2261,Movie,Victory,tt0114846,7.0,1997.0
+2263,2263,Movie,2 Days in the Valley,tt0115438,7.0,1997.0
+2274,2274,Movie,Ging chaat goo si 4: Gaan dan yam mo,tt0116704,6.0,1997.0
+2277,2277,Movie,Head Above Water,tt0116502,10.0,1997.0
+2282,2282,Movie,Albino Alligator,tt0115495,1.0,1997.0
+2288,2288,Movie,Extreme Measures,tt0116259,1.0,1997.0
+2297,2297,Movie,The Ghost and the Darkness,tt0116409,6.0,1997.0
+2304,2304,Movie,Deszczowy zolnierz,tt0116089,3.0,1997.0
+2094,2094,Movie,Fatal Passion,tt0127143,8.0,1998.0
+2276,2276,Movie,The Chain,tt0115858,4.0,1998.0
+2319,2319,Movie,Henry II: Portrait of a Serial Killer,tt0116516,8.0,1998.0
+2329,2329,Movie,Hit Me,tt0116538,9.0,1998.0
+2361,2361,Movie,The Secret Agent,tt0117582,2.0,1998.0
+2411,2411,Movie,Ratchet,tt0117443,2.0,1998.0
+2481,2481,Movie,Darklands,tt0127500,5.0,1998.0
+2482,2482,Movie,Fallen Angels,tt0127552,1.0,1998.0
+2599,2599,Movie,Lewis & Clark & George,tt0113646,6.0,1998.0
+2610,2610,Movie,Chapter Perfect,tt0115866,4.0,1998.0
+2620,2620,Movie,Killers,tt0116771,9.0,1998.0
+2632,2632,Movie,Brat,tt0118767,4.0,1998.0
+2642,2642,Movie,Macon County Jail,tt0118904,3.0,1998.0
+2643,2643,Movie,Event Horizon,tt0119081,2.0,1998.0
+2647,2647,Movie,187 (1997),tt0118531,1.0,1998.0
+2653,2653,Movie,Black Circle Boys,tt0118730,6.0,1998.0
+2659,2659,Movie,Downtime,tt0119015,2.0,1998.0
+2664,2664,Movie,Breakdown,tt0118771,6.0,1998.0
+2665,2665,Movie,The Edge,tt0119051,5.0,1998.0
+2672,2672,Movie,Love Walked In,tt0118727,2.0,1998.0
+760,760,Movie,Landslide,tt0104678,1.0,1999.0
+1827,1827,Movie,Dangerous Indiscretion,tt0109532,5.0,1999.0
+2077,2077,Movie,Blackwater Trail,tt0115698,7.0,1999.0
+2248,2248,Movie,Playback,tt0114142,1.0,1999.0
+2442,2442,Movie,Sweet Angel Mine,tt0117799,9.0,1999.0
+2744,2744,Movie,Murder in Mind,tt0119732,4.0,1999.0
+2755,2755,Movie,Mutual Needs,tt0119737,3.0,1999.0
+2771,2771,Movie,Road Ends,tt0120024,7.0,1999.0
+2782,2782,Movie,Tinseltown,tt0120095,1.0,1999.0
+2803,2803,Movie,Irrlichter,tt0120560,4.0,1999.0
+2819,2819,Movie,When Passions Collide,tt0125594,12.0,1999.0
+2849,2849,Movie,Regarde la mer,tt0139564,4.0,1999.0
+2876,2876,Movie,Mektoub,tt0179338,9.0,1999.0
+2891,2891,Movie,La nuit du destin,tt0198854,5.0,1999.0
+2988,2988,Movie,Apt Pupil,tt0118636,5.0,1999.0
+2993,2993,Movie,Goodbye Lover,tt0119219,4.0,1999.0
+2996,2996,Movie,Letters from a Killer,tt0119522,5.0,1999.0
+2998,2998,Movie,Twilight,tt0119594,1.0,1999.0
+2999,2999,Movie,A Letter from Death Row,tt0119521,12.0,1999.0
+3008,3008,Movie,A Simple Plan,tt0120324,2.0,1999.0
+2401,2401,Movie,The Ex,tt0119084,8.0,2000.0
+2479,2479,Movie,Mischievous,tt0124006,12.0,2000.0
+2538,2538,Movie,Out of the Darkness,tt0309969,2.0,2000.0
+2601,2601,Movie,Asaltar los cielos,tt0115575,8.0,2000.0
+2973,2973,Movie,Jietou han jiang,tt7583298,12.0,2000.0
+3028,3028,Movie,The Wisdom of Crocodiles,tt0120894,7.0,2000.0
+3049,3049,Movie,The General,tt0120706,8.0,2000.0
+3063,3063,Movie,Wrongfully Accused,tt0120901,6.0,2000.0
+3120,3120,Movie,Pi,tt0138704,6.0,2000.0
+3128,3128,Movie,Kiss of a Stranger,tt0140973,4.0,2000.0
+3169,3169,Movie,Tueur à gages,tt0157124,1.0,2000.0
+3180,3180,Movie,Fait Accompli,tt0158609,3.0,2000.0
+3263,3263,Movie,Hard,tt0193997,8.0,2000.0
+3371,3371,Movie,Hellblock 13,tt0119277,2.0,2000.0
+3378,3378,Movie,Brokedown Palace,tt0120620,3.0,2000.0
+3382,3382,Movie,Eye of the Beholder,tt0120662,1.0,2000.0
+3385,3385,Movie,Snow Falling on Cedars,tt0120834,5.0,2000.0
+3401,3401,Movie,The Talented Mr. Ripley,tt0134119,2.0,2000.0
+3403,3403,Movie,Teaching Mrs. Tingle,tt0133046,2.0,2000.0
+3410,3410,Movie,The Insider,tt0140352,4.0,2000.0
+2446,2446,Movie,X: The Movie,tt0118200,,2001.0
+2663,2663,Movie,Affliction,tt0118564,1.0,2001.0
+2991,2991,Movie,Where's Marlowe?,tt0118150,3.0,2001.0
+3033,3033,Movie,Urban Ghost Story,tt0120423,7.0,2001.0
+3171,3171,Movie,1732 Høtten,tt0157411,1.0,2001.0
+3203,3203,Movie,The First 9 1/2 Weeks,tt0164026,4.0,2001.0
+3236,3236,Movie,The Evil Within,tt0172409,9.0,2001.0
+3386,3386,Movie,Titus,tt0120866,6.0,2001.0
+3388,3388,Movie,You're Killing Me...,tt0122132,,2001.0
+3443,3443,Movie,Black and White,tt0149898,4.0,2001.0
+3481,3481,Movie,Chill Factor,tt0163579,1.0,2001.0
+3568,3568,Movie,Silicon Towers,tt0186547,5.0,2001.0
+3646,3646,Movie,Breath of Life,tt0212522,5.0,2001.0
+3651,3651,Movie,Presence of Mind,tt0211577,4.0,2001.0
+3653,3653,Movie,Gohatto,tt0213682,7.0,2001.0
+3828,3828,Movie,Pushing the Envelope,tt0119966,4.0,2001.0
+3842,3842,Movie,The Yards,tt0138946,6.0,2001.0
+3843,3843,Movie,Thirteen Days,tt0146309,4.0,2001.0
+3845,3845,Movie,Ricky 6,tt0156020,4.0,2001.0
+3848,3848,Movie,The Art of War,tt0160009,1.0,2001.0
+3390,3390,Movie,Abendland,tt0124811,6.0,2002.0
+3417,3417,Movie,Lighthouse,tt0139426,7.0,2002.0
+3532,3532,Movie,Dead End,tt0176646,1.0,2002.0
+3533,3533,Movie,Escape Velocity,tt0176700,10.0,2002.0
+3534,3534,Movie,Love and Action in Chicago,tt0176948,10.0,2002.0
+3549,3549,Movie,Forever Mine,tt0179182,10.0,2002.0
+3824,3824,Movie,For the Cause,tt0113092,5.0,2002.0
+3851,3851,Movie,Luckytown,tt0160495,4.0,2002.0
+3883,3883,Movie,Dark Summer,tt0168631,2.0,2002.0
+3980,3980,Movie,The Weight of Water,tt0210382,7.0,2002.0
+3987,3987,Movie,Christie Malry's Own Double-Entry,tt0213561,8.0,2002.0
+4047,4047,Movie,The Last Man,tt0231956,2.0,2002.0
+4098,4098,Movie,Nueve reinas,tt0247586,11.0,2002.0
+4129,4129,Movie,Rockets' Red Glare,tt0261959,4.0,2002.0
+4133,4133,Movie,Bangkok Dangerous,tt0263101,1.0,2002.0
+4169,4169,Movie,Versus,tt0275773,2.0,2002.0
+4322,4322,Movie,From Hell,tt0120681,3.0,2002.0
+4326,4326,Movie,Training Day,tt0139654,1.0,2002.0
+4329,4329,Movie,Enigma,tt0157583,1.0,2002.0
+4331,4331,Movie,Behind Enemy Lines,tt0159273,1.0,2002.0
+1479,1479,Movie,Fortunes of War,tt0106951,9.0,2003.0
+2316,2316,Movie,Dark Breed,tt0116026,12.0,2003.0
+2827,2827,Movie,The Price of Desire,tt0127153,6.0,2003.0
+3152,3152,Movie,Sheer Passion,tt0148835,6.0,2003.0
+3541,3541,Movie,Ozark Savage,tt0177959,9.0,2003.0
+3655,3655,Movie,Web of Seduction,tt0214299,6.0,2003.0
+3696,3696,Movie,"Tha se do stin Kolasi, agapi mou",tt0244199,4.0,2003.0
+3767,3767,Movie,Ashes to Ashes,tt0484325,11.0,2003.0
+3940,3940,Movie,Lockdown,tt0196708,6.0,2003.0
+4113,4113,Movie,Före stormen,tt0251091,8.0,2003.0
+4118,4118,Movie,Seom,tt0255589,7.0,2003.0
+4330,4330,Movie,After Image,tt0157007,5.0,2003.0
+4384,4384,Movie,Intacto,tt0220580,8.0,2003.0
+4389,4389,Movie,Dark Asylum,tt0224626,6.0,2003.0
+4418,4418,Movie,Xchange,tt0242150,5.0,2003.0
+4483,4483,Movie,Pendulum,tt0259497,7.0,2003.0
+4493,4493,Movie,Picture Claire,tt0263215,8.0,2003.0
+4548,4548,Movie,Sur mes lèvres,tt0274117,4.0,2003.0
+4555,4555,Movie,The Last Minute,tt0275468,7.0,2003.0
+4571,4571,Movie,Mr In-Between,tt0280962,10.0,2003.0
+2192,2192,Movie,Cleaner,tt0416645,1.0,2004.0
+2410,2410,Movie,Riot,tt0117481,1.0,2004.0
+2491,2491,Movie,The Successor,tt0149208,3.0,2004.0
+2508,2508,Movie,Absolute Aggression,tt0205722,2.0,2004.0
+2651,2651,Movie,The Manson Family,tt0118840,10.0,2004.0
+2856,2856,Movie,I'm Watching You,tt0154625,9.0,2004.0
+3082,3082,Movie,Land of the Free,tt0127637,1.0,2004.0
+3323,3323,Movie,Broken and Bleeding,tt0440159,11.0,2004.0
+3622,3622,Movie,Word of Mouth,tt0203214,9.0,2004.0
+3932,3932,Movie,The Stray,tt0194410,1.0,2004.0
+3968,3968,Movie,Chain of Command,tt0207377,6.0,2004.0
+4070,4070,Movie,Breathtaking,tt0239273,12.0,2004.0
+4252,4252,Movie,Enemies Closer,tt1890393,1.0,2004.0
+4377,4377,Movie,Ablaze,tt0217979,4.0,2004.0
+4468,4468,Movie,One Eyed King,tt0254626,10.0,2004.0
+4478,4478,Movie,Beneath Loch Ness,tt0256155,3.0,2004.0
+4525,4525,Movie,Manhattan Midnight,tt0271053,6.0,2004.0
+4568,4568,Movie,Blackwoods,tt0279695,8.0,2004.0
+4605,4605,Movie,Marfa si banii,tt0289320,6.0,2004.0
+4831,4831,Movie,The Dancer Upstairs,tt0118926,1.0,2004.0
+1891,1891,Movie,Dangerous Prey,tt0112793,,2005.0
+2519,2519,Movie,Reindeer Games,tt0234583,10.0,2005.0
+3119,3119,Movie,The Landlady,tt0137904,1.0,2005.0
+3267,3267,Movie,Killer Flick,tt0199685,7.0,2005.0
+3846,3846,Movie,Yup Yup Man,tt0157202,1.0,2005.0
+4210,4210,Movie,Acne,tt0368561,6.0,2005.0
+4429,4429,Movie,The Enemy,tt0245095,12.0,2005.0
+4543,4543,Movie,Freez'er,tt0273228,9.0,2005.0
+4610,4610,Movie,Ritual,tt0289768,12.0,2005.0
+4870,4870,Movie,The Code Conspiracy,tt0247254,,2005.0
+4947,4947,Movie,29 Palms,tt0283090,7.0,2005.0
+5048,5048,Movie,Scorcher,tt0303017,4.0,2005.0
+5183,5183,Movie,Makdee,tt0341455,10.0,2005.0
+5357,5357,Movie,Trinity,tt0264108,1.0,2005.0
+5363,5363,Movie,Quicksand,tt0271136,5.0,2005.0
+5394,5394,Movie,Absolon,tt0300902,9.0,2005.0
+5401,5401,Movie,Deadly Swarm,tt0303773,3.0,2005.0
+5403,5403,Movie,The Pact,tt0304514,7.0,2005.0
+5429,5429,Movie,Den of Lions,tt0312609,,2005.0
+5431,5431,Movie,Detonator,tt0312617,1.0,2005.0
+1100,1100,Movie,Trouble Bound,tt0105645,6.0,2006.0
+2047,2047,Movie,Someone to Die For,tt0114495,4.0,2006.0
+2901,2901,Movie,Possessions,tt0227291,4.0,2006.0
+3123,3123,Movie,Lost Valley,tt0138557,2.0,2006.0
+3437,3437,Movie,Tequila Body Shots,tt0144637,8.0,2006.0
+4600,4600,Movie,Looking Through Lillian,tt0285681,8.0,2006.0
+4931,4931,Movie,Panic,tt0277944,12.0,2006.0
+5383,5383,Movie,Razor Eaters,tt0293546,7.0,2006.0
+5411,5411,Movie,Conspiracy of Silence,tt0308129,1.0,2006.0
+5709,5709,Movie,El final de la noche,tt0395540,8.0,2006.0
+5712,5712,Movie,Inuyasha - Tenka hadou no ken,tt0396659,5.0,2006.0
+5964,5964,Movie,Hellbent,tt0356159,7.0,2006.0
+5974,5974,Movie,Guardian of the Realm,tt0361679,11.0,2006.0
+6020,6020,Movie,Shooting Shona,tt0371947,8.0,2006.0
+6081,6081,Movie,Pursued,tt0385969,9.0,2006.0
+6086,6086,Movie,Terkel i knibe,tt0386820,7.0,2006.0
+6089,6089,Movie,Dans l'oeil du chat,tt0387155,5.0,2006.0
+6135,6135,Movie,Conejo en la luna,tt0401740,10.0,2006.0
+6328,6328,Movie,Shinkuronishiti,tt0493567,1.0,2006.0
+6489,6489,Movie,Silence Becomes You,tt0359984,5.0,2006.0
+4082,4082,Movie,Ides of March,tt0243327,2.0,2007.0
+4989,4989,Movie,Sangre Eterna,tt0287665,2.0,2007.0
+5333,5333,Movie,La Otra Cara de la Verdad,tt5655896,,2007.0
+5361,5361,Movie,Mr. Id,tt0267764,6.0,2007.0
+5494,5494,Movie,Little Erin Merryweather,tt0330568,9.0,2007.0
+5542,5542,Movie,Red Rover,tt0345852,7.0,2007.0
+5774,5774,Movie,Go-Go Motel,tt0953415,9.0,2007.0
+5999,5999,Movie,Out of Season,tt0366860,1.0,2007.0
+6018,6018,Movie,The Good Shepherd,tt0372303,2.0,2007.0
+6134,6134,Movie,Appurushîdo,tt0401233,2.0,2007.0
+6168,6168,Movie,Lost,tt0406942,4.0,2007.0
+6460,6460,Movie,Ripley Under Ground,tt0219171,10.0,2007.0
+6516,6516,Movie,Slow Burn,tt0376196,4.0,2007.0
+6592,6592,Movie,Écorchés,tt0410557,7.0,2007.0
+6654,6654,Movie,Feast,tt0426459,1.0,2007.0
+6670,6670,Movie,Haunted Boat,tt0428081,7.0,2007.0
+6759,6759,Movie,Tryst,tt0451248,9.0,2007.0
+6816,6816,Movie,Penny Dreadful,tt0462475,6.0,2007.0
+7100,7100,Movie,The Good Shepherd,tt0343737,2.0,2007.0
+7103,7103,Movie,10th & Wolf,tt0360323,4.0,2007.0
+3723,3723,Movie,A System Devoured,tt0286188,9.0,2008.0
+4519,4519,Movie,Watchtower,tt0268755,9.0,2008.0
+4978,4978,Movie,Bang Bang You're Dead,tt0288439,1.0,2008.0
+5096,5096,Movie,Spider's Web,tt0316653,7.0,2008.0
+5232,5232,Movie,Pride & Loyalty,tt0378600,4.0,2008.0
+5738,5738,Movie,Hair of the Dog,tt0422386,7.0,2008.0
+5749,5749,Movie,Girl in 3D,tt0447172,12.0,2008.0
+5871,5871,Movie,Beacon Hill,tt0206771,8.0,2008.0
+5906,5906,Movie,Wicker Park,tt0324554,10.0,2008.0
+6224,6224,Movie,Keane,tt0420291,8.0,2008.0
+6298,6298,Movie,Osoi hito,tt0456581,7.0,2008.0
+6779,6779,Movie,Nightmare,tt0455983,2.0,2008.0
+7151,7151,Movie,The Survivors,tt0421539,8.0,2008.0
+7163,7163,Movie,Inside,tt0425132,2.0,2008.0
+7221,7221,Movie,Civic Duty,tt0446298,9.0,2008.0
+7241,7241,Movie,The Lost,tt0451102,3.0,2008.0
+7254,7254,Movie,La noche de los girasoles,tt0456111,7.0,2008.0
+7266,7266,Movie,The Last Winter,tt0454864,9.0,2008.0
+7279,7279,Movie,Simon Says,tt0458480,4.0,2008.0
+7284,7284,Movie,KM 31: Kilómetro 31,tt0460485,2.0,2008.0
+3147,3147,Movie,A Bold Affair,tt0147906,12.0,2009.0
+3594,3594,Movie,Striking Poses,tt0192638,9.0,2009.0
+4887,4887,Movie,Claim,tt0254226,9.0,2009.0
+4964,4964,Movie,Pressure,tt0283559,5.0,2009.0
+5229,5229,Movie,Reckoning Day,tt0372489,9.0,2009.0
+5571,5571,Movie,Paanch,tt0356982,12.0,2009.0
+5795,5795,Movie,Freak Out,tt2096461,10.0,2009.0
+5915,5915,Movie,Dynamite,tt0330242,2.0,2009.0
+6590,6590,Movie,Soul Searcher,tt0410648,5.0,2009.0
+7108,7108,Movie,Stripped Down,tt0378816,,2009.0
+7147,7147,Movie,Memory,tt0418879,2.0,2009.0
+7156,7156,Movie,Sam's Lake,tt0423116,10.0,2009.0
+7166,7166,Movie,Jimmy en Judy,tt0425151,3.0,2009.0
+7175,7175,Movie,Splinter,tt0429115,5.0,2009.0
+7188,7188,Movie,The Visitation,tt0435770,,2009.0
+7233,7233,Movie,Rohtenburg,tt0448400,6.0,2009.0
+7245,7245,Movie,Unconscious,tt0455822,5.0,2009.0
+7593,7593,Movie,Header,tt0861350,6.0,2009.0
+7694,7694,Movie,Prometheus Triumphant,tt1368989,1.0,2009.0
+7780,7780,Movie,Susan Hero,tt0362209,4.0,2009.0
+5467,5467,Movie,Purgatory Flats,tt0323741,2.0,2010.0
+6124,6124,Movie,Mojave,tt0397537,5.0,2010.0
+6144,6144,Movie,Starkweather,tt0404456,9.0,2010.0
+6474,6474,Movie,Dot.Kill,tt0337610,12.0,2010.0
+6618,6618,Movie,The Hangman,tt0417735,2.0,2010.0
+6777,6777,Movie,Perceptions,tt0455993,2.0,2010.0
+7153,7153,Movie,Hatchet,tt0422401,4.0,2010.0
+7176,7176,Movie,Zyzzyx Rd,tt0429277,4.0,2010.0
+7286,7286,Movie,Driftwood,tt0460777,12.0,2010.0
+7332,7332,Movie,Champions,tt0473502,8.0,2010.0
+7353,7353,Movie,The Suspect,tt0476396,5.0,2010.0
+7424,7424,Movie,True True Lie,tt0493419,7.0,2010.0
+7488,7488,Movie,Fingerprints,tt0790662,4.0,2010.0
+7673,7673,Movie,Unforgiven Sins: The Case of the Faceless Murders,tt1067930,,2010.0
+7719,7719,Movie,The Fear (El Miedo),tt1853699,3.0,2010.0
+7879,7879,Movie,Raakh: A Poem Masked in Blood,tt0476847,,2010.0
+7932,7932,Movie,On the Doll,tt0493439,,2010.0
+8085,8085,Movie,El último justo,tt0867336,4.0,2010.0
+8279,8279,Movie,Partyline,tt1071881,8.0,2010.0
+8336,8336,Movie,The Legend of Sorrow Creek,tt1117598,1.0,2010.0
+225,225,Movie,Erastes sti mihani tou hronou,tt0257625,10.0,2011.0
+3654,3654,Movie,Paradise Cove,tt0212414,,2011.0
+7425,7425,Movie,Dead in the Water,tt0494218,,2011.0
+7518,7518,Movie,Court of Lonely Royals,tt0810812,8.0,2011.0
+7639,7639,Movie,Chand kilo khorma baraye marassem-e tadfin,tt0922379,6.0,2011.0
+7972,7972,Movie,The Mirror,tt0783551,8.0,2011.0
+8027,8027,Movie,Left for Dead,tt0820914,8.0,2011.0
+8134,8134,Movie,Tyrannosaurus Azteca,tt0925306,2.0,2011.0
+8296,8296,Movie,Cape Karma,tt1080568,,2011.0
+8455,8455,Movie,Midnight Heat,tt1996322,7.0,2011.0
+8578,8578,Movie,Lady Magdalene's,tt0783538,10.0,2011.0
+8726,8726,Movie,Contract Killers,tt1001548,9.0,2011.0
+8742,8742,Movie,The Least of These,tt1014766,8.0,2011.0
+8757,8757,Movie,Fog Warning,tt1027812,10.0,2011.0
+8761,8761,Movie,The Garden of Eden,tt1031243,9.0,2011.0
+8898,8898,Movie,The Coverup,tt1153543,1.0,2011.0
+9080,9080,Movie,Resurrection County,tt1297943,10.0,2011.0
+9150,9150,Movie,Peripheral Vision,tt1339150,2.0,2011.0
+9288,9288,Movie,Goulash,tt3978936,4.0,2011.0
+9348,9348,Movie,The Heavy,tt0473364,4.0,2011.0
+1169,1169,Movie,Killing Car,tt0106894,9.0,2012.0
+5771,5771,Movie,Three Shades of Black,tt0833998,5.0,2012.0
+6252,6252,Movie,Que lo pague la noche,tt0429012,2.0,2012.0
+6756,6756,Movie,The Final Experiment,tt0450421,,2012.0
+7976,7976,Movie,Nitro,tt0790602,2.0,2012.0
+8569,8569,Movie,Trapped in Perfection,tt0496413,12.0,2012.0
+8829,8829,Movie,Uncertainty,tt1086216,8.0,2012.0
+8849,8849,Movie,Deadlands 2: Trapped,tt1103262,7.0,2012.0
+8932,8932,Movie,Limousine,tt1183939,5.0,2012.0
+9301,9301,Movie,Silent Rails,tt6390126,4.0,2012.0
+9333,9333,Movie,Royal Kill,tt0421237,8.0,2012.0
+9375,9375,Movie,Nine Miles Down,tt0812352,6.0,2012.0
+9426,9426,Movie,Modus Operandi,tt0972855,2.0,2012.0
+9454,9454,Movie,Sordid Things,tt1034072,,2012.0
+9540,9540,Movie,Four Boxes,tt1144545,9.0,2012.0
+9718,9718,Movie,Warriors of the Apocalypse,tt1279329,8.0,2012.0
+9869,9869,Movie,Neighbor,tt1362103,9.0,2012.0
+10005,10005,Movie,Malvolio,tt1466974,1.0,2012.0
+10037,10037,Movie,The Blackout,tt1489946,9.0,2012.0
+10062,10062,Movie,The Turnpike Killer,tt1500758,5.0,2012.0
+971,971,Movie,Domnisoara Christina,tt0272585,,2013.0
+6194,6194,Movie,Landers,tt0415106,5.0,2013.0
+7661,7661,Movie,Execution,tt0972554,1.0,2013.0
+7884,7884,Movie,AfterThought,tt0476985,9.0,2013.0
+7907,7907,Movie,King of Sorrow,tt0480821,12.0,2013.0
+8479,8479,Movie,The Dead Time,tt4308058,8.0,2013.0
+8646,8646,Movie,Under Still Waters,tt0902337,1.0,2013.0
+9331,9331,Movie,Cargo,tt0381940,9.0,2013.0
+9500,9500,Movie,Acts of Mercy,tt1110233,,2013.0
+10180,10180,Movie,The Fallow Field,tt1568892,3.0,2013.0
+10430,10430,Movie,On a Dark and Stormy Night,tt1151919,4.0,2013.0
+10438,10438,Movie,Shelter,tt1179069,3.0,2013.0
+10500,10500,Movie,Hatchet II,tt1270835,7.0,2013.0
+10576,10576,Movie,Luster,tt1351186,4.0,2013.0
+10602,10602,Movie,The Final,tt1390535,2.0,2013.0
+10647,10647,Movie,Depositarios,tt1442569,9.0,2013.0
+10788,10788,Movie,Changing Hands,tt1551615,4.0,2013.0
+10811,10811,Movie,Beatdown,tt1568323,2.0,2013.0
+10816,10816,Movie,Closure,tt1570983,1.0,2013.0
+10899,10899,Movie,Fallen Souls,tt1615842,12.0,2013.0
+4146,4146,Movie,Monarch,tt0264916,9.0,2014.0
+5001,5001,Movie,No Good Deed,tt0292610,11.0,2014.0
+6533,6533,Movie,Crash Landing,tt0385622,7.0,2014.0
+6651,6651,Movie,Blood Deep,tt0424855,10.0,2014.0
+7459,7459,Movie,The Legend of Simon Conjurer,tt0758763,9.0,2014.0
+9858,9858,Movie,New Hope Manor,tt1352386,11.0,2014.0
+10094,10094,Movie,Overload,tt1518237,,2014.0
+10235,10235,Movie,Season of the Witch,tt1754471,10.0,2014.0
+10299,10299,Movie,Burning Calcutta,tt3795628,5.0,2014.0
+10692,10692,Movie,Cannibal,tt1475531,12.0,2014.0
+10845,10845,Movie,Isle of Dogs,tt1588362,8.0,2014.0
+11144,11144,Movie,House Swap,tt1740762,6.0,2014.0
+11213,11213,Movie,13 Strings,tt1785266,3.0,2014.0
+11361,11361,Movie,Virt. Igra ne po-detski,tt3698340,5.0,2014.0
+11377,11377,Movie,Spookshow a Go Go!,tt5444454,2.0,2014.0
+11408,11408,Movie,Double Tap,tt0490847,,2014.0
+11502,11502,Movie,The Bad Penny,tt1356392,4.0,2014.0
+11506,11506,Movie,Next Door to the Velinsky's,tt1368465,9.0,2014.0
+11572,11572,Movie,Blood & Curry,tt1517629,8.0,2014.0
+11575,11575,Movie,Collapse,tt1524114,9.0,2014.0
+8787,8787,Movie,Marco Polo,tt1049403,8.0,2015.0
+9713,9713,Movie,Soldiers in the Shadows,tt1276425,,2015.0
+9789,9789,Movie,Abundant Sunshine,tt1326189,,2015.0
+10346,10346,Movie,The Invited,tt0490236,3.0,2015.0
+10705,10705,Movie,Removal,tt1493828,7.0,2015.0
+10799,10799,Movie,Gun,tt1560954,9.0,2015.0
+10943,10943,Movie,Toxic Lullaby,tt1640193,7.0,2015.0
+11065,11065,Movie,Hole,tt1704721,11.0,2015.0
+11268,11268,Movie,Tasvie hesab,tt1856748,,2015.0
+11464,11464,Movie,Pig,tt1262414,7.0,2015.0
+11505,11505,Movie,In Purgatory,tt1368422,9.0,2015.0
+11583,11583,Movie,Doctor Feelgood,tt1532942,9.0,2015.0
+11595,11595,Movie,Blue Door,tt1541814,1.0,2015.0
+11626,11626,Movie,Flutter,tt1579951,,2015.0
+11633,11633,Movie,Wake Before I Die,tt1587378,1.0,2015.0
+11655,11655,Movie,Dark Bridge,tt1612281,1.0,2015.0
+11676,11676,Movie,Enter Nowhere,tt1631707,2.0,2015.0
+12008,12008,Movie,The Innocent,tt1867080,6.0,2015.0
+12058,12058,Movie,Desired,tt1895332,9.0,2015.0
+12375,12375,Movie,Divination,tt2123174,10.0,2015.0
+320,320,Movie,The Exorcist III: Legion,tt10045260,10.0,2016.0
+562,562,Movie,Samurai Cop,tt0130236,4.0,2016.0
+7395,7395,Movie,Jack's Law,tt0485920,5.0,2016.0
+8508,8508,Movie,The Horror Vault,tt0369424,10.0,2016.0
+9372,9372,Movie,Rovdrift,tt0811047,10.0,2016.0
+9639,9639,Movie,"Ice Grill, U.S.A.",tt1227380,,2016.0
+9673,9673,Movie,The Shortcut,tt1243955,8.0,2016.0
+9702,9702,Movie,House of Flesh Mannequins,tt1266073,4.0,2016.0
+10615,10615,Movie,Orgy of the Damned,tt1403210,5.0,2016.0
+10627,10627,Movie,Godforsaken,tt1414823,4.0,2016.0
+10656,10656,Movie,Unrequited,tt1450140,1.0,2016.0
+12824,12824,Movie,The Wish,tt1849165,11.0,2016.0
+12856,12856,Movie,Breve storia di lunghi tradimenti,tt1876263,1.0,2016.0
+12979,12979,Movie,Breathless,tt2005164,1.0,2016.0
+12986,12986,Movie,Come Morning,tt2016168,9.0,2016.0
+13734,13734,Movie,Lie Detector,tt3513330,,2016.0
+13752,13752,Movie,Nothing Is by Chance,tt4276576,5.0,2016.0
+13929,13929,Movie,Innocence,tt1724965,1.0,2016.0
+14082,14082,Movie,Craters of the Moon,tt2089653,,2016.0
+14260,14260,Movie,The Mansion,tt2292196,2.0,2016.0
+174,174,Movie,Red Snow,tt0102765,6.0,2017.0
+8733,8733,Movie,The Candlelight Murders,tt1007021,,2017.0
+8862,8862,Movie,Jack Rio,tt1117592,12.0,2017.0
+9970,9970,Movie,Split Second,tt1436578,,2017.0
+10420,10420,Movie,Carmen's Kiss,tt1116183,11.0,2017.0
+10605,10605,Movie,And Soon the Darkness,tt1391034,3.0,2017.0
+10877,10877,Movie,Zombie Beach,tt1604064,2.0,2017.0
+10879,10879,Movie,Playing Cards,tt1604164,,2017.0
+11459,11459,Movie,Phoenix Falling,tt1258205,11.0,2017.0
+11694,11694,Movie,The Entitled,tt1650535,7.0,2017.0
+11819,11819,Movie,Identical,tt1748051,3.0,2017.0
+11828,11828,Movie,Michael,tt1754202,4.0,2017.0
+12201,12201,Movie,Nobel Chor,tt2002742,7.0,2017.0
+12618,12618,Movie,Paranormal Abduction,tt1510989,7.0,2017.0
+13105,13105,Movie,The Garlock Incident,tt2125650,9.0,2017.0
+13133,13133,Movie,Found,tt2149360,1.0,2017.0
+13954,13954,Movie,Haunted Maze,tt1786503,1.0,2017.0
+14141,14141,Movie,Kultur Shock!,tt2176236,2.0,2017.0
+14168,14168,Movie,Monsoon Shootout,tt2198235,12.0,2017.0
+14400,14400,Movie,The Secret Village,tt2401789,4.0,2017.0
+8954,8954,Movie,Murder.com,tt1194606,5.0,2018.0
+9730,9730,Movie,Annabel Lee,tt1285211,4.0,2018.0
+10464,10464,Movie,Caller ID,tt1227927,1.0,2018.0
+11054,11054,Movie,What You See Is What You Get,tt1695426,9.0,2018.0
+13107,13107,Movie,Decision Time,tt2124162,6.0,2018.0
+13226,13226,Movie,Armynel,tt2211716,10.0,2018.0
+13302,13302,Movie,Victimes,tt2267542,9.0,2018.0
+13314,13314,Movie,Edge,tt2275661,8.0,2018.0
+13967,13967,Movie,House of Blood,tt1826693,10.0,2018.0
+15419,15419,Movie,Peter Gaya Kaam Se,tt1643239,12.0,2018.0
+15426,15426,Movie,Alligator X,tt1666187,11.0,2018.0
+15466,15466,Movie,Tension(s),tt1871391,9.0,2018.0
+15704,15704,Movie,Amerikan Violence,tt2408922,8.0,2018.0
+15926,15926,Movie,Cut Her Out,tt2932498,10.0,2018.0
+16171,16171,Movie,The Carbon Crooks,tt3289418,10.0,2018.0
+16247,16247,Movie,Adios Vaya Con Dios,tt3411556,7.0,2018.0
+16272,16272,Movie,The Drownsman,tt3450134,1.0,2018.0
+16742,16742,Movie,Around the World,tt4094600,2.0,2018.0
+17046,17046,Movie,Axe to Grind,tt1634275,10.0,2018.0
+17123,17123,Movie,"Black Dog, Red Dog",tt2171791,,2018.0
+4984,4984,Movie,Dahmer,tt0285728,,2019.0
+5962,5962,Movie,Ek Hasina Thi,tt0352314,1.0,2019.0
+7887,7887,Movie,Cthulhu,tt0478126,12.0,2019.0
+8416,8416,Movie,Solos,tt1361838,10.0,2019.0
+8718,8718,Movie,Farm House,tt0996934,10.0,2019.0
+11285,11285,Movie,Elektra,tt1920913,3.0,2019.0
+11495,11495,Movie,The Shadows,tt1337022,8.0,2019.0
+11511,11511,Movie,Infection: The Invasion Begins,tt1386583,7.0,2019.0
+12506,12506,Movie,Radd Fe'el,tt6832730,6.0,2019.0
+12977,12977,Movie,Would You Rather,tt1999995,6.0,2019.0
+13009,13009,Movie,Sanctuary; Quite a Conundrum,tt2049518,6.0,2019.0
+13344,13344,Movie,100 Ghost Street: The Return of Richard Speck,tt2297108,7.0,2019.0
+13737,13737,Movie,Bartita,tt3587480,6.0,2019.0
+14352,14352,Movie,Scrape,tt2369275,11.0,2019.0
+14415,14415,Movie,The Forbidden Dimensions,tt2413516,6.0,2019.0
+14612,14612,Movie,Ragin Cajun Redneck Gators,tt2634414,5.0,2019.0
+14761,14761,Movie,HazMat,tt2821832,11.0,2019.0
+15842,15842,Movie,After Darkness,tt2728784,1.0,2019.0
+16291,16291,Movie,Fever Dreams,tt3468588,9.0,2019.0
+16395,16395,Movie,The Device,tt3593120,4.0,2019.0
+7957,7957,Movie,He Was a Quiet Man,tt0760311,5.0,2020.0
+8018,8018,Movie,Trigger Man,tt0814365,4.0,2020.0
+9685,9685,Movie,Give 'em Hell Malone,tt1258137,5.0,2020.0
+10497,10497,Movie,The Last Rites of Ransom Pride,tt1268970,6.0,2020.0
+10638,10638,Movie,Faster,tt1433108,1.0,2020.0
+11908,11908,Movie,The Glass Man,tt1814888,12.0,2020.0
+12688,12688,Movie,Eliminate: Archie Cookson,tt1657274,,2020.0
+14980,14980,Movie,Ice Soldiers,tt3104304,3.0,2020.0
+15679,15679,Movie,Ungli,tt2392447,4.0,2020.0
+15879,15879,Movie,Blood Punch,tt2825230,4.0,2020.0
+15907,15907,Movie,Inner Demon,tt2887840,5.0,2020.0
+15992,15992,Movie,Extinction,tt3033080,3.0,2020.0
+16017,16017,Movie,The Editor,tt3067274,7.0,2020.0
+16038,16038,Movie,Flashes,tt3102924,5.0,2020.0
+17070,17070,Movie,Hindsight 2020,tt1837569,,2020.0
+17129,17129,Movie,Don't Speak,tt2181298,10.0,2020.0
+17588,17588,Movie,Insane,tt3529052,,2020.0
+17800,17800,Movie,Savageland,tt3899154,5.0,2020.0
+17815,17815,Movie,The Rezort,tt3923662,5.0,2020.0
+17828,17828,Movie,12 Rounds 3: Lockdown,tt3957956,5.0,2020.0
+725,725,Movie,Meatgrinder,tt19466142,11.0,2021.0
+2022,2022,Movie,Scorpion Spring,tt0114366,7.0,2021.0
+4679,4679,Movie,Jisatsu sâkuru,tt0312843,5.0,2021.0
+5941,5941,Movie,Le convoyeur,tt0347330,6.0,2021.0
+5990,5990,Movie,Virumandi,tt0364647,1.0,2021.0
+7125,7125,Movie,Abominable,tt0402743,6.0,2021.0
+9783,9783,Movie,Psalm 21,tt1322355,12.0,2021.0
+10828,10828,Movie,Repeaters,tt1580426,9.0,2021.0
+11781,11781,Movie,La proie,tt1726861,6.0,2021.0
+12783,12783,Movie,Shiver,tt1800734,2.0,2021.0
+13286,13286,Movie,Cycle,tt2251275,12.0,2021.0
+14302,14302,Movie,Beneath,tt2325518,3.0,2021.0
+15572,15572,Movie,Addicted,tt2205401,3.0,2021.0
+15855,15855,Movie,Sanctuary,tt2783986,8.0,2021.0
+16266,16266,Movie,Missiya: Prorok,tt3441366,3.0,2021.0
+16331,16331,Movie,Hide and Go Seek,tt3519946,8.0,2021.0
+17768,17768,Movie,Live,tt3861802,3.0,2021.0
+17866,17866,Movie,De ce eu?,tt4016994,3.0,2021.0
+18151,18151,Movie,Abandoned,tt4519006,3.0,2021.0
+18762,18762,Movie,L'altra faccia del destino,tt15258994,,2021.0
+5272,5272,Movie,The Lift,tt13465152,9.0,2022.0
+9431,9431,Movie,Mango Tango,tt0985056,1.0,2022.0
+10413,10413,Movie,Frenchy,tt1286146,1.0,2022.0
+17026,17026,Movie,Risk for Honor,tt1363134,2.0,2022.0
+21245,21245,Movie,Lost Kiddy Found,tt5516148,,2022.0
+22353,22353,Movie,Rogue,tt21025262,5.0,2022.0
+23731,23731,Movie,Midnight Delhi,tt9520702,2.0,2022.0
+26410,26410,Movie,Hors du monde,tt12128038,1.0,2022.0
+26487,26487,Movie,New Order,tt12474056,2.0,2022.0
+26910,26910,Movie,When Everything's Gone,tt5723896,2.0,2022.0
+26970,26970,Movie,Stoker Hills,tt6668220,1.0,2022.0
+27046,27046,Movie,Ava,tt8706138,1.0,2022.0
+27407,27407,Movie,Incantation,tt10333688,8.0,2022.0
+27447,27447,Movie,Slapface,tt10601552,,2022.0
+27474,27474,Movie,The Feast,tt10738906,4.0,2022.0
+27531,27531,Movie,Boiling Point,tt11127680,1.0,2022.0
+27549,27549,Movie,Ghosts of the Ozarks,tt11186952,,2022.0
+27552,27552,Movie,The Card Counter,tt11196036,2.0,2022.0
+27556,27556,Movie,See for Me,tt11209212,,2022.0
+27577,27577,Movie,Catch the Fair One,tt11304504,2.0,2022.0
+29371,29371,Movie,Black Warrant,tt11696342,1.0,2023.0
+29374,29374,Movie,The Bigfoot Legacy,tt11760866,3.0,2023.0
+29388,29388,Movie,El fred que crema,tt11934038,1.0,2023.0
+29415,29415,Movie,Paranormal Activity 8: The Other Side,tt12459328,10.0,2023.0
+29447,29447,Movie,Exiled: The Chosen Ones,tt12951176,6.0,2023.0
+29452,29452,Movie,Dark Haven,tt13057276,10.0,2023.0
+29473,29473,Movie,The Reading,tt13358022,2.0,2023.0
+29556,29556,Movie,Lobo Feroz,tt14118246,1.0,2023.0
+29628,29628,Movie,Poker Face,tt14714980,1.0,2023.0
+29629,29629,Movie,Give Me Pity!,tt14725622,2.0,2023.0
+29632,29632,Movie,Brightwood,tt14736734,,2023.0
+29663,29663,Movie,The Beasts,tt15006566,3.0,2023.0
+29824,29824,Movie,Cryptid,tt4974812,1.0,2023.0
+29867,29867,Movie,M3gan,tt8760708,1.0,2023.0
+30277,30277,Movie,Da-eum So-hee,tt19820538,4.0,2023.0
+30341,30341,Movie,Apteeker Melchior. Timuka tütar,tt20452574,4.0,2023.0
+30464,30464,Movie,Autobiography,tt21372280,1.0,2023.0
+30467,30467,Movie,To the North,tt21378332,3.0,2023.0
+30475,30475,Movie,Stalker,tt21379060,,2023.0
+30476,30476,Movie,Bohoja,tt21387514,,2023.0
