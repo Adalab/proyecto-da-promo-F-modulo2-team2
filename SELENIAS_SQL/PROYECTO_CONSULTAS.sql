@@ -42,3 +42,12 @@ SELECT MAX(IMDB), dpeli.titulo
     ON dpeli.titulo = m.titulo
 	  WHERE tipo = 'short'
       GROUP BY dpeli.titulo;
+
+
+-- ¿Cuál es la película mejor valorada en IMDB?
+
+
+-- ¿Qué actor/actriz ha recibido más premios?
+
+
+-- ¿Hay algun actor/actriz que haya recibido más de un premio Óscar?
